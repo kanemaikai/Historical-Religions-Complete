@@ -1,1 +1,17 @@
-{"religionsToRemove":["Buddhism","Islam","Hinduism","Christianity"]}
+{"religionsToRemove":[
+  "Buddhism",
+  "Catholicism",
+  "Christianity",
+  "Confucianism",
+  "Eastern Orthodoxy",
+  "Hinduism",
+  "Islam",
+  "Judaism",
+  "Protestantism",
+  "Shinto",
+  "Sikhism",
+  "Taoism",
+  "Tengriism",
+  "Zoroastrianism"
+  ]
+}
